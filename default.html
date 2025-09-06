@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quick Japanese Lookup</title>
+  <link rel="stylesheet" href="popup.css">
+ 
+  </style>
+</head>
+<body>
+  <div class="header">
+    <button id="settingsToggle">
+      <span class="gear-icon">⚙️</span>
+      Settings
+    </button>
+  </div>
+
+  <div class="content">
+    <p>
+      Welcome to <b>Smart Japanese Lookup</b>.<br>
+      Made with the best wishes during your studies
+      皆さん、頑張ってください！
+    </p>
+  </div>
+
+  <div class="settings" id="settingsPanel">
+    <h3>AI Settings</h3>
+    <input type="text" id="aiInput" placeholder="AI URL (default: https://chatgpt.com/?q=)">
+    <br>
+    <button class="save" id="saveAiBtn">Save AI Link</button>
+
+    <h3>Anki Settings</h3>
+    <input type="text" id="deckInput" placeholder="Anki deck name (default: Default)">
+    <br>
+    <button class="save" id="saveDeckBtn">Save Deck</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
