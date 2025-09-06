@@ -9,6 +9,10 @@ To install, turn on developer mode in Chrome, and load unpacked extension.
 Make sure to place all files and folders in one folder/place,
 and you'll be able to enjoy this extension
 
+
+<img width="916" height="512" alt="image" src="https://github.com/user-attachments/assets/6f9b35a6-9cc5-4ca5-a337-64bbfb82dbeb" />
+
+
 Custom AI URL as far as i am aware, only ChatGPT supports it,
 but i still added it nonetheless for futureproofing. 
 
