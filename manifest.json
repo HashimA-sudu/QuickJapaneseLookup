@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Smart Japanese Lookup",
+  "name": "Quick Japanese Lookup",
   "version": "1.0",
   "description": "Select Japanese text to add on Anki, search on Jisho.org, and Ask AI!",
   "permissions": ["contextMenus", "tabs", "storage", "notifications"],
@@ -16,3 +16,4 @@
     "128": "icons/icon128.png"
   }
 }
+
